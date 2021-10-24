@@ -4,10 +4,10 @@ const mysql = require('mysql');
 
 //local mysql db connection
 const dbConn = mysql.createConnection({
-  host     : 'localhost',
-  user     : 'root',
-  password : '',
-  database : 'db_spa'
+  host     : 'us-cdbr-east-04.cleardb.com',
+  user     : 'bb0df8ce638a4a',
+  password : 'ff74fb55',
+  database : 'heroku_3505f68ddf230ae'
 });
 
 dbConn.connect(function(err) {
