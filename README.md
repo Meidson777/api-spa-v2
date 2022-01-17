@@ -1,10 +1,10 @@
 # api-spa-v2
 
-## INICIANDO
+### INICIANDO
 
-[] npm init -- package name
-[] npm install express --save 
-[] npm install body-parser --save
-[] npm install mysql --save
-[] npm install --save-dev nodemon
-[] add script package json "start: nodemon server.js" -> server.js index arquivo principal.
+- [x] npm init -- package name
+- [x] npm install express --save 
+- [x] npm install body-parser --save
+- [x] npm install mysql --save
+- [x] npm install --save-dev nodemon
+- [x] add script package json "start: nodemon server.js" -> server.js index arquivo principal.
